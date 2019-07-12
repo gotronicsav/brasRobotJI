@@ -1,3 +1,7 @@
+//@orga=GoTronic
+//@author1=Yohann R.
+//@author2=Sylvain G.
+
 #include <Servo.h>
 
 Servo base; Servo epaule; Servo coude; Servo poignet; Servo rotapince; Servo ouvepince;
